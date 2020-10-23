@@ -1,0 +1,17 @@
+1、安装vscode
+2、查看 -> 打开终端 
+3、 ls 查看当前文件夹下的所含文件
+4、mkdir <name> 创建文件夹 
+5、cd <file name> 进入文件夹
+6、touch <name> 创建文件
+7、vim <name> 编辑文件
+8、学会使用 github
+1.     git clone https://xxx.git
+     2.     如何查看当前的分支名字：git branch
+3.     创建一个 README.md 
+4. git add  README.md  先将文件提交到本地的缓存区。
+5. git status 查看当前文件夹中有哪些文件被修改了。
+6. git commit -m “第一次提交”  对当前的修改进行描述
+7. git push origin master
+
+q1: 使用git 如何推送所有的文件？
